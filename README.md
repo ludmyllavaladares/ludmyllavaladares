@@ -6,15 +6,19 @@
 
 
 ---
- - 💻 Graduanda em Análise e Desenvolvimento de Sistemas, e médica veterinária porém me encontro em transição de carreira. 
- - 👙 Sou apaixonada por praia, Yoga e atividades ao ar livre.
+ - 💻 Graduanda em Análise e Desenvolvimento de Sistemas e médica veterinária porém, encontro-me em transição de carreira. 
+ - 👙 Sou apaixonada por praia, yoga e atividades ao ar livre.
  - 🚴 Estou também iniciando o gosto pelo ciclismo e adoro estar em família 👨‍👩‍👦‍👦
 
 <br/>
 
-<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/>  &ensp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> &ensp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> &ensp;<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/></p>
+<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/>  &ensp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> &ensp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> &ensp;<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> &ensp;<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="30" height="30"/>&ensp;<img src="https://simpleicons.org/icons/csharp.svg" alt="C#" width="30" height="30"/></p>
 
 
 <br/>
+
+! [Estatísticas do github do Ludmylla] (https://github-readme-stats.vercel.app/api ? Username = ludmyllavaladares & show_icons = true )
+
+! [Estatísticas do github de Ludmylla] (https://github-readme-stats.vercel.app/api ? Username = ludmyllavaladares & show_icons = true & theme = radical )
 
   Obrigada pela visita 💜
