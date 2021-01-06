@@ -17,8 +17,5 @@
 
 <br/>
 
-! [Estatísticas do github do Ludmylla] (https://github-readme-stats.vercel.app/api ? Username = ludmyllavaladares & show_icons = true )
-
-! [Estatísticas do github de Ludmylla] (https://github-readme-stats.vercel.app/api ? Username = ludmyllavaladares & show_icons = true & theme = radical )
 
   Obrigada pela visita 💜
