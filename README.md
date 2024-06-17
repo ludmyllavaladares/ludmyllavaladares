@@ -6,7 +6,7 @@
 
 
 ---
- - 💻 Graduanda em Análise e Desenvolvimento de Sistemas e médica veterinária porém, encontro-me em transição de carreira. 
+ - 💻 Analista de Sistemas e médica veterinária. 
  - 👙 Sou apaixonada por praia, yoga e atividades ao ar livre.
  - 🚴 Estou também iniciando o gosto pelo ciclismo e adoro estar em família 👨‍👩‍👦‍👦
 
